@@ -1,0 +1,181 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin: 0;
+}
+.dotted-hr{
+    border: dotted 6px white;
+    border-bottom: none;
+    width: 140px;
+   text-align: center;
+   padding-bottom: 05px;
+   padding-top: none;
+
+
+}
+[class*="col-"]{
+    float: left;
+    padding: 10px;
+}
+
+[class*="col-"]{
+    width: 100%;
+}
+/* navbar starts from here */
+.navbar{
+    background-color: #40868b;
+    padding: 1% 7%;
+    text-align: center;
+}
+.navbar h1{
+    color: white;
+    margin: 0;
+    padding-top: 10px;
+    font-size: 2.5rem;
+    text-align: center;
+    transition: 0.5s ease-in-out;
+}
+.navbar h1:hover{
+    color: brown;
+}
+.navbar-menu{
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+}
+.navbar-menu a{
+    background-color: #0c6168;
+    border-radius: 10px;
+    margin: 7px 0px;
+    padding: 10px;
+    color: white;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+.navbar-menu a:hover{
+    background-color: gray;
+}
+.navbar::after{
+    clear: both;
+    display: table;
+    content: '';
+}
+/* navbar ends here */
+
+/* profile designed  start from here */
+
+.profile{
+    padding: 120px 10px;
+    text-align: center;
+    position: relative;
+}
+
+.profile .top-weather-icon{
+    position: absolute;
+    right: 60px;
+    top: 20px;
+    transition: transform 2s;
+    width: 100px;
+    height: 100px;
+}
+.profile .top-weather-icon:hover{
+    transform: rotate(360deg);
+}
+
+.profile .buttom-weather-icon{
+    position: absolute;
+    left: 60px;
+    bottom:  20px;
+    transition: transform 2s;
+    width: 100px;
+    height: 100px;
+}
+.profile .buttom-weather-icon:hover{
+    transform: rotate(360deg);
+}
+
+.profile-desc h1{
+    font-family: sans-serif;
+    font-size: 3rem;
+}
+
+.profile-desc p{
+    color: gray;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto 20px auto;
+    font-size: 1.2rem;
+    text-align: justify;
+}
+
+.profile::after{
+    content: '';
+    display: table;
+    clear: both;
+}
+/* profile designed end from here */
+
+/* about me starts here */
+
+
+.about-me h2{
+    text-align: center;
+    padding-top: 05px;
+    
+}
+.aboutme-desc {
+    background-color: #5a92e7;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.about-me{
+    background-color: #5a92e7;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+
+}
+.aboutme-image{
+    margin: 0;
+    background-color: #5a92e7;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 423px;
+    padding-top:40px ;
+
+} 
+.aboutme-image img{
+    text-align: center;
+}
+.aboutme::after{
+    content: '';
+    display: table;
+    clear: both;
+}
+.about-me img{
+    border: 5px solid white;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+.cv-button{
+    background-color: bisque;
+    color: black solid;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 18px;
+    border: none;
+    padding: 10px;
+}
+.cv-button:hover{
+    background-color: #4ae9ac;
+    color: rgb(209, 59, 0);
+}
+/* about me ends here */
