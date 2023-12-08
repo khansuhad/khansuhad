@@ -1,4 +1,4 @@
-### Hi there 👋
+##   i'm suhad ahmod khan
 
 <!--
 **khansuhad/khansuhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
