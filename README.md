@@ -1,4 +1,5 @@
-##   i'm suhad ahmod khan
+##   Hi, I'm suhad ahmod khan, a Frontend Developer (mern stack) from Bangladesh. I'm all about creating awesome web applications that work smoothly and look fantastic. Solving problems and bringing web applications to life is what I do best. Currently, I'm studying Diploma in Engineering in Computer Science & Technology, always on the lookout for ways to level up my skills.
+
 
 <!--
 **khansuhad/khansuhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
