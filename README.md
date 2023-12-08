@@ -1,6 +1,6 @@
 
 
-[![An old rock in the desert](https://raw.githubusercontent.com/khansuhad/khansuhad/main/Online%20Seminar%20Facebook%20Ad.jpg)
+![An old rock in the desert](https://raw.githubusercontent.com/khansuhad/khansuhad/main/Online%20Seminar%20Facebook%20Ad.jpg)
 
 
 
