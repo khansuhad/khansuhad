@@ -1,6 +1,6 @@
 
 
-![An old rock in the desert]([https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg])
+![An old rock in the desert]([https://github.com/khansuhad/khansuhad/blob/main/Online%20Seminar%20Facebook%20Ad.png])
 
 
 
