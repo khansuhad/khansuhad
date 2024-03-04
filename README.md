@@ -1,6 +1,6 @@
 
 
-![An old rock in the desert]([https://github.com/khansuhad/khansuhad/blob/main/signature.jpg])
+![An old rock in the desert]([https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg])
 
 
 
