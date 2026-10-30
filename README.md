@@ -1,14 +1,14 @@
  <escape><!-- ═══════════════════════════════════════════════════════════
-     SHUHAD AHMAD KHAN — GITHUB PROFILE
+     SUHAD AHMAD KHAN — GITHUB PROFILE
      ═══════════════════════════════════════════════════════════ --></escape>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/khansuhad/khansuhad/main/signature.jpg" width="100%" alt="Shuhad Ahmad Khan — Cover" />
+<img src="https://raw.githubusercontent.com/khansuhad/khansuhad/main/signature.jpg" width="100%" alt="Suhad Ahmad Khan — Cover" />
 
 <br/>
 
-# Hi, I'm Shuhad Ahmad Khan 👋
+# Hi, I'm Suhad Ahmad Khan 👋
 
 ### Full-Stack Developer · Next.js Developer · Product Builder
 
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Shuhad Ahmad Khan**, a software developer from Bangladesh who enjoys designing, developing, and building web applications that solve real-world problems.
+I'm **Suhad Ahmad Khan**, a software developer from Bangladesh who enjoys designing, developing, and building web applications that solve real-world problems.
 
 My primary focus is **Next.js and full-stack web development**. I enjoy working across the entire development process — from designing interfaces and building backend systems to database architecture, deployment, and optimization.
 
