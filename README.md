@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/khansuhad/khansuhad/main/signature.jpg](https://res.cloudinary.com/dxkflftro/image/upload/v1793392543/Suhad_Ahmod_Khan_Developer_Banner_ilgdho.png)" width="100%" alt="Suhad Ahmad Khan — Cover" />
+<img src="https://res.cloudinary.com/dxkflftro/image/upload/v1793392543/Suhad_Ahmod_Khan_Developer_Banner_ilgdho.png" width="100%" alt="Suhad Ahmad Khan — Cover" />
 
 <br/>
 
